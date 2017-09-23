@@ -3,7 +3,7 @@
  "notifications": [
   {
    "id": 1,
-   "text": "Boostnote mobile app was released!!",
+   "text": "Boostnote mobile app was released?",
    "linkUrl": "https://github.com/boostio/boostnote-mobile"
   }
  ]
