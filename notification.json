@@ -1,4 +1,10 @@
-adfva
-feafe
-
-aefe
+{
+ "version": 1,
+ "notifications": [
+  {
+   "id": 1,
+   "text": "Boostnote mobile app was released?",
+   "linkUrl": "https://github.com/boostio/boostnote-mobile"
+  }
+ ]
+}
